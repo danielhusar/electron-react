@@ -5,8 +5,7 @@
 ### Installing dependencies
 
 ```bash
-bower install
-npm install
+npm install && bower install
 ```
 
 ### Bulding project
